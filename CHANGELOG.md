@@ -111,6 +111,23 @@
 - setEncryptedFeatures method
 - Integrated CI/CD functionality, enhancing security and automation in the development pipeline
 
+## [3.9.15](https://github.com/micdenny/growthbook-flutter/compare/v3.9.14...v3.9.15) (2025-07-25)
+
+
+### Bug Fixes
+
+* add setup, build_runner to publish workflow ([963503c](https://github.com/micdenny/growthbook-flutter/commit/963503c4a93c7f5d752a469891f67ba950c84fcf))
+* bug fixes ([b0fe046](https://github.com/micdenny/growthbook-flutter/commit/b0fe046aa6ccb9eebc84988335839c28c02c2ef8))
+* bug fixes for eval & sticky bucketing ([d85d4dd](https://github.com/micdenny/growthbook-flutter/commit/d85d4dd4f629510a5ae89c396753dd967fa924d3))
+* detached HEAD ([f8264d9](https://github.com/micdenny/growthbook-flutter/commit/f8264d97ef771d15777f94beb8828484b820e9ff))
+* equal to condition for string evaluation ([f1ddec9](https://github.com/micdenny/growthbook-flutter/commit/f1ddec9560698df0cc27887ad7071c525cbf36bb))
+* evalConditionValue ([a9bd601](https://github.com/micdenny/growthbook-flutter/commit/a9bd6017dba0f464b948f56202145179c09d8e01))
+* release template  ([33af84a](https://github.com/micdenny/growthbook-flutter/commit/33af84a6f35a98a9fb85a96ce10b9c2e085b8147))
+* string base comparison ([36771ef](https://github.com/micdenny/growthbook-flutter/commit/36771ef3f38751e12ec412b610f18bafa11d94ee))
+* string comparision ([cfcb68e](https://github.com/micdenny/growthbook-flutter/commit/cfcb68eb180729d5a439feebe829cbdd873cc000))
+* string evaluation ([aa027b1](https://github.com/micdenny/growthbook-flutter/commit/aa027b15af332acc6d7b236b1ddb1e4d4f979a4a))
+* type conversions ([4324001](https://github.com/micdenny/growthbook-flutter/commit/4324001ad1d1cbf3839eec05cc50ae9d33f3bf88))
+
 ## [3.9.14](https://github.com/growthbook/growthbook-flutter/compare/v3.9.13...v3.9.14) (2025-07-24)
 
 
